@@ -45,9 +45,6 @@
 
 
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="roshh" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&border_radius=0" alt="roshh" height="139" />
-</p>
 
 
 <!-- <h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
