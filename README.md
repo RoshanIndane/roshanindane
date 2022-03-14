@@ -38,7 +38,7 @@
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/roshanindane/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="roshh" /></a>
-  <a href="https://link.medium.com/0WWnljpHoob" target="blank"><img align="center" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" alt="roshh" width="10%" /></a>
+  <a href="https://link.medium.com/0WWnljpHoob" target="blank"><img align="center" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="roshh" width="10%" /></a>
   <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roshh" /></a> 
 </p>
 
