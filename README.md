@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Roshan Indane <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
-<h3>- <i>Solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer</i></h3>
+<h3>- <i>Solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
+</i></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
@@ -27,10 +28,10 @@
 </p>
 
 
-<h3><i>Interested on my top projects? <img src="https://www.shillingtoneducation.com/content-blog/uploads/2015/08/nike-swoosh-logo-png-the-top-10-most-popular-shoe-brands-everyone-is-wearing-top-10-rate-pict-1200x646.png" width="50" /></i></h3>
+<h3><i>Interested on my top projects? <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /></i></h3>
 <p align="left">
 <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate" /></a> &nbsp;
-<a href="https://github.com/m-sehrawat/Adidas-Website-Clone" target="blank"><img src="" alt="adidas"/></a>
+<a href="https://github.com/m-sehrawat/Adidas-Website-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
 </p>
 
 
