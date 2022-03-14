@@ -30,7 +30,7 @@
 
 <h3><i>Interested on my top projects? <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /></i></h3>
 <p align="left">
-<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://w7.pngwing.com/pngs/40/718/png-transparent-swoosh-air-force-nike-free-logo-nike-angle-text-triangle-thumbnail.png" alt="Lybrate" /></a> &nbsp;
+<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://w7.pngwing.com/pngs/40/718/png-transparent-swoosh-air-force-nike-free-logo-nike-angle-text-triangle-thumbnail.png" alt="Lybrate" width="10%"/></a> &nbsp;
 <a href="https://github.com/m-sehrawat/Adidas-Website-Clone" target="blank"><img src="https://cdn.picodi.com/hk/shop/thumb_300/yesstyle_2251_001.png" alt="adidas" width="10%"/></a>
 </p>
 
