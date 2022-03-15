@@ -3,6 +3,21 @@
 <h3>- <i>Solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
 </i></h3>
 
+- 🔭 I’m currently student at Masai School
+
+
+- 🌱 I’m currently learning **Full-Stack Web Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/RoshanIndane?tab=repositories](https://github.com/RoshanIndane?tab=repositories)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **roshanindane7@gmail.com**
+
+- ⚡ Fun fact **I Love to go on Rides.**
+
+</br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
 <a href="https://github.com/RoshanIndane?tab=followers"><img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="GitHub Badge"></a>
