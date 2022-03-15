@@ -55,7 +55,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/roshanindane/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="roshh" /></a>
   <a href="https://link.medium.com/0WWnljpHoob" target="blank"><img align="center" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="roshh" width="15%" /></a>
-  <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roshh" /></a> 
+  <a title="roshanindane7@gmail.com" href="mailto:roshanindane7@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roshh" /></a> 
 </p>
 
 
