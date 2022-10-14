@@ -3,10 +3,8 @@
 <h3>- <i>Solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
 </i></h3>
 
-- 🔭 I’m currently student at Masai School
 
-
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m a **Full-Stack Web Devloper**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoshanIndane?tab=repositories](https://github.com/RoshanIndane?tab=repositories)
 
